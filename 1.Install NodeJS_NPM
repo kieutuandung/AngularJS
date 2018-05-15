@@ -1,0 +1,7 @@
+1. Cai dat NodeJS
+- Tai ban moi nhat NodejS
+- Su dung lenh: sudo tar -xf node-v8.11.1-linux-x64.tar.xz  --directory /usr/local --strip-components 1
+- Check phien ban NodeJS: nodejs -v
+- Check phien ban NPM: npm -v
+2. Cap nhatn NPM:
+- npm install npm@latest -g
